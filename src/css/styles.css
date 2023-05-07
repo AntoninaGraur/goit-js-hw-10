@@ -36,15 +36,8 @@ body {
   border: 2px solid #ccc;
   border-radius: 5px;
 }
-
-.country-list li {
-  padding: 10px;
-  cursor: pointer;
+.text{
+  font-size: 20px;
+  color: #436205;
 }
-
-.country-list li:hover {
-  background-color: #0de3ef;
-}
-
-
 
