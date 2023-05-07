@@ -1,1 +1,0 @@
-{"mappings":"AAEmBA,SAASC,cAAc,iBACtBD,SAASC,cAAc","sources":["src/index.js"],"sourcesContent":["import './css/styles.css';\n\nconst coutryList = document.querySelector('.country-list');\nconst countryInfo = document.querySelector('.country-info');\n\n"],"names":["document","querySelector"],"version":3,"file":"index.c375dde9.js.map"}
